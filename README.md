@@ -51,12 +51,11 @@ GROUP BY a.ActorName
 HAVING COUNT(DISTINCT p.CompanyName) > 3;
 ---
 🚀 Getting Started
-Clone this repository:
-🔗https://github.com/yourusername/movie-db-analysis.git
-cd movie-db-analysis
-Launch the SQLite viewer or use the included Jupyter Notebook to run queries.
-
-Explore, analyze, and visualize!
+- Clone this repository:
+- 🔗https://github.com/yourusername/movie-db-analysis.git
+- cd movie-db-analysis
+- Launch the SQLite viewer or use the included Jupyter Notebook to run queries.
+---
 ## 🧠 Author  
 **Mohammed Saif Wasay**  
 *Data Analytics Graduate — Northeastern University*  
